@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Reeves Burris",
+    "inoffice": true
+  },
+  {
+    "name": "Elaine Aguirre",
+    "inoffice": false
+  },
+  {
+    "name": "Valarie Wade",
+    "inoffice": false
+  },
+  {
+    "name": "Rogers Oconnor",
+    "inoffice": false
+  },
+  {
+    "name": "Reyna Walsh",
+    "inoffice": false
+  },
+  {
+    "name": "Matthews Singleton",
+    "inoffice": true
+  },
+  {
+    "name": "Roman Suarez",
+    "inoffice": false
+  },
+  {
+    "name": "Penelope Hatfield",
+    "inoffice": false
+  },
+  {
+    "name": "Blair Robertson",
+    "inoffice": false
+  },
+  {
+    "name": "Teri Ingram",
+    "inoffice": false
+  }
+]
